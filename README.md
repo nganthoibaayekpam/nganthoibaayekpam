@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m Nganthoiba
-- 👀 I’m interested in creating new stuff, programming new things, etc.
-- 🌱 I’m currently learning java, html-css, python.
+- 👀 I’m interested developing stuff that can make our daily lives easier.
+- 🌱 I’m currently learning java and python.
 - 💞️ Collaboration? not sure yet.
 - 📫 wanting to reach out? dm me on discord, @nganthoiba.
 
